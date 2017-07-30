@@ -2,6 +2,12 @@
   <div class="alert alert-success"><p>Your password has been reset and you are now logged in. Welcome back!</p></div>
 <% end %>
 
+<div class="alert alert-danger">
+  <p><strong>swsheets.com will be down for maintenance between 6:00A CDT and 7:00A CDT on Thursday, August 3rd</strong>.</p>
+  <p>I'm very sorry for the trouble. I hope the downtime will only last a few minutes.</p>
+  <p>hugs,<br />sparker</p>
+</div>
+
 <div class="jumbotron welcome-jumbotron">
   <img src='/images/jumbotron-left.png' class='pull-left hidden-xs hidden-sm'>
   <img src='/images/jumbotron-right.png' class='pull-right hidden-xs hidden-sm'>
