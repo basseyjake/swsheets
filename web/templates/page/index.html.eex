@@ -2,6 +2,11 @@
   <div class="alert alert-success"><p>Your password has been reset and you are now logged in. Welcome back!</p></div>
 <% end %>
 
+<div class="alert alert-danger">
+  <p><strong>swsheets.com will be down for maintenance between 8:00PM MST and 8:30PM MST on Monday, January 20th, 2020.</strong>.</p>
+  <p>Apologies for the inconvenience. If all goes well, we should be back up quickly. May the Force be with us.</p>
+</div>
+
 <div class="jumbotron welcome-jumbotron">
   <img src='/images/jumbotron-left.png' class='pull-left hidden-xs hidden-sm'>
   <img src='/images/jumbotron-right.png' class='pull-right hidden-xs hidden-sm'>
